@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaHaJoHe
 - 👀 I’m interested in ... Singing/songwriting, Guitar, Gaming, Web development
-- 🌱 I’m currently learning ... HTML, CSS, Javascript
+- 🌱 I’m currently learning ... HTML, CSS, Bootstrap
 - 💞️ I’m looking to collaborate on ... Building my first webpages and site
 - 📫 How to reach me ... Leave a message
 
