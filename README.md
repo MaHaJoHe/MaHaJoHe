@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @MaHaJoHe
-- 👀 I’m interested in ... Singing/songwriting, Guitar, Gaming, Web development
-- 🌱 I’m currently learning ... HTML, CSS, Bootstrap
-- 💞️ I’m looking to collaborate on ... Building my first webpages and site
-- 📫 How to reach me ... Leave a message
+- 👋 Hi, I’m @MaHaJoHe or Matty
+- 👀 I’m interested in ... Singing/songwriting, Guitar, Gaming, Development
+- 🌱 I’m currently learning ... Python, WSL2 & Object Oriented Programming
+
 
 <!---
 MaHaJoHe/MaHaJoHe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
